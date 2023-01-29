@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Weather App
+  ### It is a web application built using React.js framework . The weather info is fetched using openweathermap api.
+  ### Live : https://trackclimate.netlify.app/
+  ![weather-app](https://user-images.githubusercontent.com/110151059/215326123-2befe96b-5f4b-40a7-b971-8fb496a910d3.jpg)
+  
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
